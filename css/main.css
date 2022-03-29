@@ -1786,6 +1786,9 @@ header .container .mega-menu .links li a i {
   font-size: 16px;
   margin: 50px 0 0;
 }
+.footer .heart {
+  color: rgb(211, 14, 14);
+}
 /* End Footer */
 /* Start Animation */
 @keyframes up-and-down {
